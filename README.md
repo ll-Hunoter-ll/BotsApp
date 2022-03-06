@@ -121,9 +121,9 @@ Feel free to post your queries or concerns on any of the discussion forums menti
 - [X-tra-Telegram](https://github.com/Prince-Mendiratta/X-tra-Telegram)
 
 ## Copyright & License
-- Copyright (C) 2021 - 2022 by [BotsAppOfficial](https://github.com/BotsAppOfficial)
+- Copyright (C) 2021 - 2022 by [BotsAppOfficial](https://github.com/ll-Hunoter-ll)
 
-- Licensed under the terms by [GNU GENERAL PUBLIC LICENSE](https://github.com/BotsAppOfficial/BotsApp/blob/main/LICENSE)
+- Licensed under the terms by [GNU GENERAL PUBLIC LICENSE](https://github.com/ll-Hunoter-ll/BotsApp/blob/main/LICENSE)
 
 ## Legal
 This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries. This is an independent and unofficial software. Use at your own risk.

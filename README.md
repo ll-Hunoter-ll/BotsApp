@@ -47,7 +47,7 @@ Voila! You have deployed your bot in 5 easy steps. Once the bot has started succ
 
 You can deploy the bot the heroku yourself using the button below!
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBotsAppOfficial%2FBotsApp%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2FBotsAppOfficial%2FBotsApp%2Ftree%2Fmainhttps://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBotsAppOfficial%2FBotsApp%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2FBotsAppOfficial%2FBotsApp%2Ftree%2Fmain)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fll-Hunoter-ll%2FBotsApp%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2Fll-Hunoter-ll%2FBotsApp%2Ftree%2Fmainhttps://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fll-Hunoter-ll%2FBotsApp%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2Fll-Hunoter-ll%2FBotsApp%2Ftree%2Fmain)
 
 ### Using Docker locally
 
@@ -56,7 +56,7 @@ To follow this method, you will need to have docker installed on your machine an
 To host the bot on your own device using docker, follow the following steps on your terminal / command prompt -
 
 ```bash
-git clone https://github.com/BotsAppOfficial/BotsApp.git
+git clone https://github.com/ll-Hunoter-ll/BotsApp.git
 cd BotsApp
 docker build -t botsapp .
 docker run --rm --name botsapp botsapp
@@ -71,7 +71,7 @@ To use this method, you will need ffmpeg, nodejs, npm installed on your device.
 To run the bot on your device manually, you can use the following commands -
 
 ```bash
-git clone https://github.com/BotsAppOfficial/BotsApp.git
+git clone https://github.com/ll-Hunoter-ll/BotsApp.git
 cd BotsApp
 npm install
 npm start
